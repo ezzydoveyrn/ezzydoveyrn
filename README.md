@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ezzydoveyrn" target="blank"><img src="https://img.shields.io/twitter/follow/ezzydoveyrn?logo=twitter&style=for-the-badge" alt="ezzydoveyrn" /></a> </p>
 
-- 🔭 I’m currently working on [Michael Chess](https://michaechesscentre.com)
+- 🔭 I’m currently working on [Michael Chess](https://michaelchesscentre.com)
 
 - 🌱 I’m currently learning **React Native**
 
